@@ -9,3 +9,4 @@ main line
 
 
 stash line
+main line 1
